@@ -2,7 +2,11 @@
 
 吴恩达机器学习专项课程-可选实验/练习测试中文版（已全部翻译），可以导入colab，或者用VS/Cursor/Windsurf学习查看
 
-使用AI自动翻译的，错误的地方可以一起完善，后续考虑补充colab实验地址
+最新在看吴恩达的视频课程，但是没找到有大佬翻译的中文实验链接，索性自己用cursor全翻译过来了，错误的地方可以一起完善，后续会考虑补充colab实验地址和学习笔记
+
+
+# 机器学习专项课程 Coursera
+
 
 翻译自：https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera
 
@@ -10,8 +14,6 @@
 
 ![课程封面](./course.png)
 ![课程分类](./course_Contents.png)
-
-# 机器学习专项课程 Coursera
 
 **注意：如果您想通过理解所需的数学知识来更深入地理解这些概念，请查看 [机器学习与数据科学数学专项课程](https://github.com/greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera)**
 
